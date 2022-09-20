@@ -1,4 +1,4 @@
-# principles_of_data_intensive_apps
+# Principles of data intensive apps
 principles_of_data_intensive_apps
 
 https://web.stanford.edu/class/cs245/
